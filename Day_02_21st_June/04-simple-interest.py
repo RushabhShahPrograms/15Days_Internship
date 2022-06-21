@@ -1,0 +1,1 @@
+print("Simple Interest is: ",((10*20*10)/100))
