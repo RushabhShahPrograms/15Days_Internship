@@ -1,0 +1,7 @@
+In this Folder you will get some basic code as for the introduction purpose
+
+Here are three Apps named as: product,blog, and simplesite
+
+Here is one project named as: egift
+
+Thank you!!
